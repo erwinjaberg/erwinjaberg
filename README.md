@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @erwinjaberg
+- 👀 I’m interested in creating new things
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on smal projekts
+- 📫 How to reach me over the messeging hier im gethub
